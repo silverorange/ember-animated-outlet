@@ -1,0 +1,22 @@
+{
+  "name": "ember-animated-outlet",
+  "main": ["dist/ember-animated-outlet.css", "dist/ember-animated-outlet.js", "dist/ember-animated-outlet.min.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/silverorange/ember-animated-outlet",
+  "authors": [
+    "billysbilling",
+    "nburka"
+  ],
+  "description": "Ember Animated Outlet is a plug'n'play module to support animated route transitions in Ember.js",
+  "keywords": [
+    "ember",
+    "animated-outlet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "tests"
+  ]
+}
